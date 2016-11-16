@@ -4,7 +4,7 @@ Here is a list of all Remote Meetups.
 
 ## How to create a Remote Meetup?
 
-If you would like to create a Remote Meetup, just add a new issue [here], adding the meetup information according to [this](https://github.com/remotemeetup/list/blob/master/meetup_template.md) template.
+If you would like to create a Remote Meetup, just add a new issue [here](https://github.com/remotemeetup/list/issues/new), adding the meetup information according to [this](https://github.com/remotemeetup/list/blob/master/meetup_template.md) template.
 
 #### How to live stream your meetup?
 Once you have created your meetup, you should ask yourself which technologies you may use. There are some interesting tools you might use, such as:
