@@ -15,3 +15,6 @@ Normally, we give a form and the community can ask questions before the meetup
 - Franzé Jr
 - Iuri Fernades
 - Rafael Sales
+
+
+[Playlist on Youtube](https://www.youtube.com/playlist?list=PLeonCbPZMjh3a-PyBzqIh3t6ZTfpxPSB3)
