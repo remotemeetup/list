@@ -11,6 +11,7 @@ Normally, we give a form and the community can ask questions before the meetup
 
 
 ## Organizers
+
 - Franzé Jr
 - Iuri Fernades
 - Rafael Sales
